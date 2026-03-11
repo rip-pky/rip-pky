@@ -1,39 +1,45 @@
+
 <div align="center">
 
-# <img src="https://img.shields.io/badge/-000000?style=flat&logo=apple&logoColor=white" height="20"> Dev.juu <img src="https://img.shields.io/badge/-000000?style=flat&logo=apple&logoColor=white" height="20">
-### 😈 Fullstack Developer | 13 y/o 
+#  Dev.juu 
+### 👻 Fullstack Developer | 13 y/o 
 
-<img src="https://i.pinimg.com/736x/8f/9b/23/8f9b23114407b469493922d48c8b6d3b.jpg" width="150" style="border-radius: 50%" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" width="120" />
 
 *"Code is poetry, and bugs are just unexpected rhymes."*
 
 ---
 
-### 📊 My Underworld Stats
+### 📊 GitHub Stats
 
 <table border="0">
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rip-pky&show_icons=true&theme=blood&hide_border=true&bg_color=0D1117&title_color=E4405F&text_color=ffffff&icon_color=E4405F" />
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rip-pky&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=797EF1&text_color=ffffff&icon_color=797EF1" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rip-pky&layout=compact&theme=blood&hide_border=true&bg_color=0D1117&title_color=E4405F&text_color=ffffff&icon_color=E4405F" />
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rip-pky&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=797EF1&text_color=ffffff&icon_color=797EF1" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠 Tech Stack & Skills
+### 🛠 Tech Stack
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 <br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🌐 Contato
-<a href="https://instagram.com/code.juu"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+### 🌐 Conecte-se comigo
+<a href="https://instagram.com/code.juu" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 

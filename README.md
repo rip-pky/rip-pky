@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧑🏻‍💻 Dev.juu 🧑🏻‍💻
+#   Dev.juu 
 ### 👻 Fullstack Developer | 13 y/o 
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" width="120" />

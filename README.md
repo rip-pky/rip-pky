@@ -1,23 +1,23 @@
 <div align="center">
 
 # <img src="https://img.shields.io/badge/-000000?style=flat&logo=apple&logoColor=white" height="20"> Dev.juu <img src="https://img.shields.io/badge/-000000?style=flat&logo=apple&logoColor=white" height="20">
-### 👻 Fullstack Developer | 13 y/o 
+### 😈 Fullstack Developer | 13 y/o 
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" width="100" />
+<img src="https://i.pinimg.com/736x/8f/9b/23/8f9b23114407b469493922d48c8b6d3b.jpg" width="150" style="border-radius: 50%" />
 
 *"Code is poetry, and bugs are just unexpected rhymes."*
 
 ---
 
-### 📊 Minhas Atividades no GitHub
+### 📊 My Underworld Stats
 
 <table border="0">
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rip-pky&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=797EF1&text_color=ffffff&icon_color=797EF1" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rip-pky&show_icons=true&theme=blood&hide_border=true&bg_color=0D1117&title_color=E4405F&text_color=ffffff&icon_color=E4405F" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rip-pky&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=797EF1&text_color=ffffff&icon_color=797EF1" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rip-pky&layout=compact&theme=blood&hide_border=true&bg_color=0D1117&title_color=E4405F&text_color=ffffff&icon_color=E4405F" />
     </td>
   </tr>
 </table>
@@ -36,3 +36,4 @@
 <a href="https://instagram.com/code.juu"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 
 </div>
+

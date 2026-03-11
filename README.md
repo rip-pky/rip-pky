@@ -32,10 +32,6 @@
 
 ---
 
-### 🌑 Snake Animation (Contribuições)
-<img src="https://github-raw-tutorial.vercel.app/api/snake?user=rip-pky&color=purple" alt="snake" />
-
----
 
 ### 🌐 Contato
 <a href="https://instagram.com/code.juu"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>

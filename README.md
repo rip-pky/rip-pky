@@ -9,18 +9,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<table border="0">
-  <tr>
-    <td>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rip-pky&show_icons=true&theme=vision-glow&hide_border=true&count_private=true&cache_seconds=1800" />
-    </td>
-    <td>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rip-pky&layout=compact&theme=vision-glow&hide_border=true&langs_count=10&cache_seconds=1800" />
-    </td>
-  </tr>
-</table>
 
 ---
 

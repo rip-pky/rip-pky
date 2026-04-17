@@ -51,7 +51,7 @@
 ---
 
 ### 🛡️ Discord 
-Entre no servidor para conferir o **Script Haven** ven conheser a society 
+Entre no servidor para conferir o **Script Haven** venha dar uma olhada na **society** 
 
 <a href="https://discord.gg/AQGtS7XkD4" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />

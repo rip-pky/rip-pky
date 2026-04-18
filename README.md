@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌌 juu.dev
-### 🚀 Fullstack Developer | ?? y/o | Arch & Nix Lover
+### 🚀 Fullstack Developer | Arch & Nix Lover
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/34.gif" width="120" />
 
@@ -20,35 +20,38 @@
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-**🐧 OS & Low Level Mastery**
+### 🐧 OS & Low Level
 <br>
+
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![GRUB](https://img.shields.io/badge/GRUB-Custom_Boot-black?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**🔧 Tools & Environment**
+### 🔧 Tools & Environment
 <br>
+
 ![LiveUSB](https://img.shields.io/badge/Live_USB-Linux_Deploy-yellow?style=for-the-badge&logo=usb)
 [![IDE](https://img.shields.io/badge/IDE-Caderno_Tilibra_Zip-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.amazon.com.br/CADERNO-080-TILIBRA-ZIP-236730/dp/B07897QMWS)
 
 ---
 
-### 🛡️ Discord 
-Entre no servidor para conferir o **Script Haven** venha dar uma olhada na **society** <a href="https://discord.gg/AQGtS7XkD4" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+### 🛡️ Comunidades
+Venha conferir o **Script Haven** e a nossa **society**:
+
+<a href="https://discord.gg/AQGtS7XkD4" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-Script_Haven-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 ---
 
-### 🤝 Parceiros : Blox Lab
+### 🤝 Parceiros: Blox Lab
 *Liderado por GabrielrtxrobloxRtx — Onde a programação e o gaming se encontram!*
 
-* 💻 **Scripts Exclusivos:** Tenha acesso às ferramentas do Blox Lab antes de todo mundo.
-* 🛠️ **Suporte Dev:** Tire dúvidas sobre scripts e programação mobile (Pydroid 3).
-* 👨‍💻 **Comunidade:** Encontre gente para jogar Roblox (Brookhaven, Blox Fruits e mais).
-* 📢 **Novidades:** Fique por dentro de tudo o que rola na "Noobz".
+* 💻 **Scripts Exclusivos:** Ferramentas do Blox Lab em primeira mão.
+* 🛠️ **Suporte Dev:** Dúvidas sobre scripts e Pydroid 3.
+* 👨‍💻 **Comunidade:** Gameplay (Brookhaven, Blox Fruits e mais).
 
 <a href="https://discord.gg/QNQdAWb5F" target="_blank">
   <img src="https://img.shields.io/badge/Blox_Lab-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -57,6 +60,7 @@ Entre no servidor para conferir o **Script Haven** venha dar uma olhada na **soc
 ---
 
 ### 🌐 Conecte-se comigo
+
 <a href="https://instagram.com/code.juu" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>

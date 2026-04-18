@@ -9,10 +9,6 @@
 
 ---
 
-
-
----
-
 ### 🛠 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,10 +36,22 @@
 ---
 
 ### 🛡️ Discord 
-Entre no servidor para conferir o **Script Haven** venha dar uma olhada na **society** 
-
-<a href="https://discord.gg/AQGtS7XkD4" target="_blank">
+Entre no servidor para conferir o **Script Haven** venha dar uma olhada na **society** <a href="https://discord.gg/AQGtS7XkD4" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+---
+
+### 🤝 Parceiros : Blox Lab
+*Liderado por GabrielrtxrobloxRtx — Onde a programação e o gaming se encontram!*
+
+* 💻 **Scripts Exclusivos:** Tenha acesso às ferramentas do Blox Lab antes de todo mundo.
+* 🛠️ **Suporte Dev:** Tire dúvidas sobre scripts e programação mobile (Pydroid 3).
+* 👨‍💻 **Comunidade:** Encontre gente para jogar Roblox (Brookhaven, Blox Fruits e mais).
+* 📢 **Novidades:** Fique por dentro de tudo o que rola na "Noobz".
+
+<a href="https://discord.gg/QNQdAWb5F" target="_blank">
+  <img src="https://img.shields.io/badge/Blox_Lab-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 ---

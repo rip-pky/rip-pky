@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌌 juu.dev
-### 🚀 Fullstack Developer | 13 y/o | Arch & Nix Lover
+### 🚀 Fullstack Developer | ?? y/o | Arch & Nix Lover
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/34.gif" width="120" />
 

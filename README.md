@@ -3,7 +3,7 @@
 # 🌌 juu.dev
 ### 🚀 Fullstack Developer | Arch & Nix Lover
 
-<img src="https://imagizer.imageshack.com/img923/6545/1C4R9U.png" width="220" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/34.gif" width="120" />
 
 *"Code is poetry, and bugs are just unexpected rhymes."*
 
@@ -42,4 +42,43 @@
 ### 🔧 Tools & Environment
 <br>
 
-![LiveUSB](
+![LiveUSB](https://img.shields.io/badge/Live_USB-Linux_Deploy-yellow?style=for-the-badge&logo=usb)
+[![IDE](https://img.shields.io/badge/IDE-Caderno_Tilibra_Zip-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.amazon.com.br/CADERNO-080-TILIBRA-ZIP-236730/dp/B07897QMWS)
+
+---
+
+### 🛡️ Comunidades
+Venha conferir o **Script Haven** e a nossa **society**:
+
+<a href="https://discord.gg/AQGtS7XkD4" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-Script_Haven-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+---
+
+### 🤝 Parceiros: Blox Lab
+*Liderado por GabrielrtxrobloxRtx — Onde a programação e o gaming se encontram!*
+
+* 💻 **Scripts Exclusivos:** Ferramentas do Blox Lab em primeira mão.
+* 🛠️ **Suporte Dev:** Dúvidas sobre scripts e Pydroid 3.
+* 👨‍💻 **Comunidade:** Gameplay (Brookhaven, Blox Fruits e mais).
+
+<a href="https://discord.gg/QNQdAWb5F" target="_blank">
+  <img src="https://img.shields.io/badge/Blox_Lab-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+---
+
+### 🌐 Conecte-se comigo
+
+<a href="https://instagram.com/code.juu" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.tiktok.com/@s1tent.py" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@0x.silent" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+</div>

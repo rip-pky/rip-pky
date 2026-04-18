@@ -10,11 +10,11 @@
 ---
 
 ### 📊 GitHub Stats
-<a href="https://github.com/SEU_USUARIO_AQUI">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<a href="https://github.com/rip-pky">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rip-pky&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </a>
-<a href="https://github.com/SEU_USUARIO_AQUI">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<a href="https://github.com/rip-pky">
+  <img src="https://github-readme-stats.vercel.app/api?username=rip-pky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </a>
 
 ---
